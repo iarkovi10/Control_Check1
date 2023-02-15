@@ -1,0 +1,15 @@
+C:\Users\79323\Desktop\Control Check\bin\Debug\net6.0\Control Check.exe
+C:\Users\79323\Desktop\Control Check\bin\Debug\net6.0\Control Check.deps.json
+C:\Users\79323\Desktop\Control Check\bin\Debug\net6.0\Control Check.runtimeconfig.json
+C:\Users\79323\Desktop\Control Check\bin\Debug\net6.0\Control Check.dll
+C:\Users\79323\Desktop\Control Check\bin\Debug\net6.0\Control Check.pdb
+C:\Users\79323\Desktop\Control Check\obj\Debug\net6.0\Control Check.csproj.AssemblyReference.cache
+C:\Users\79323\Desktop\Control Check\obj\Debug\net6.0\Control Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79323\Desktop\Control Check\obj\Debug\net6.0\Control Check.AssemblyInfoInputs.cache
+C:\Users\79323\Desktop\Control Check\obj\Debug\net6.0\Control Check.AssemblyInfo.cs
+C:\Users\79323\Desktop\Control Check\obj\Debug\net6.0\Control Check.csproj.CoreCompileInputs.cache
+C:\Users\79323\Desktop\Control Check\obj\Debug\net6.0\Control Check.dll
+C:\Users\79323\Desktop\Control Check\obj\Debug\net6.0\refint\Control Check.dll
+C:\Users\79323\Desktop\Control Check\obj\Debug\net6.0\Control Check.pdb
+C:\Users\79323\Desktop\Control Check\obj\Debug\net6.0\Control Check.genruntimeconfig.cache
+C:\Users\79323\Desktop\Control Check\obj\Debug\net6.0\ref\Control Check.dll
